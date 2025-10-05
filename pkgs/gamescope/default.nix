@@ -1,7 +1,7 @@
 { 
   gamescope',
   fetchFromGitHub,
-}:
+}: gamescope'
 
 # NOTE: vendoring gamescope for the time being since we want to match the
 #       version shipped by the vendor, ensuring feature level is equivalent.
